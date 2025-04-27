@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "vite",
     "build": "vue-tsc -b && vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "prepare": "yarn remove style-repo && yarn add style-repo@https://github.com/gusto-dev/style-repo.git"
   },
   "dependencies": {
     "style-repo": "https://github.com/gusto-dev/style-repo.git",

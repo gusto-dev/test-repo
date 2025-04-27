@@ -1822,10 +1822,10 @@ __metadata:
 
 "style-repo@https://github.com/gusto-dev/style-repo.git":
   version: 0.1.0
-  resolution: "style-repo@https://github.com/gusto-dev/style-repo.git#commit=205c9f0a176e980cfc5b3bac2fe13c1960772dfe"
+  resolution: "style-repo@https://github.com/gusto-dev/style-repo.git#commit=b1ffeef40f18b4287c261dad81876d98ec9c7417"
   dependencies:
     vue: ^3.5.13
-  checksum: 5848e584c57b90ee88d3ae5b13f1c33291fc9e10b741c88846e2dfca370a0bc442162aaa4d2bbe7865f8ebcdfc5e85e3dca1ac8d591ef8a28872ee7e75eaa135
+  checksum: 01b68746255fc7ca6858b4ebd5d1b1224e6a359f772b6318648e91500eb5ac1e5b71425c54915cc1d36b8c7edbb2a22816167c201af9db20748830df5d32d5ce
   languageName: node
   linkType: hard
 
